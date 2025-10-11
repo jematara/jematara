@@ -2,7 +2,6 @@
 
 🧑‍💻 An engineering student at Universitas Suryakancana</br>
 🌱 Currently learning about Basic Web Programming</br>
-📫 How to reach me: [E-mail](jasmineputeriaz@gmail.com) me!
 
 ### Tech Stack 💻
 ---
